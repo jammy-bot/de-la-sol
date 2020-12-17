@@ -2,4 +2,4 @@
 solar power exploratory
 
 ## Data and Data Description
-https://data.nrel.gov/submissions/81
+Mooney, Meghan; Sigrin, Ben (2018): Rooftop Energy Potential of Low Income Communities in America REPLICA. National Renewable Energy Laboratory. https://data.nrel.gov/submissions/81
